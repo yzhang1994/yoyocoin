@@ -1,0 +1,17 @@
+{
+  "name": "yoyocoin",
+  "version": "0.0.0",
+  "description": "test ERC20 tokens that don't do anything",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yvonne Zhang",
+  "license": "ISC",
+  "dependencies": {
+    "zeppelin-solidity": "^1.6.0"
+  }
+}
